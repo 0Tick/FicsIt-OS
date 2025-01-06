@@ -1,0 +1,11 @@
+["Window Manager"]
+path = "/srv/windows.lua"
+enabled = true
+args = []
+env = { cwd = "/srv/" }
+
+["Terminal"]
+path = "/srv/terminal.lua"
+enabled = true
+args = []
+env = { cwd = "/srv/" }
